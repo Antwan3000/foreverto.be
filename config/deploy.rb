@@ -3,7 +3,7 @@
 ##############################################################
 #$:.unshift(File.expand_path('./lib', ENV['rvm_path']))
 require 'rvm/capistrano'
-set :rvm_ruby_string, '1.9.3-p194@rails32'
+set :rvm_ruby_string, '1.9.3-p362@rails32'
 set :rvm_type, :system
 
 
